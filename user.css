@@ -1,0 +1,16 @@
+.gc-label-text {
+  color: #ffffff;
+}
+
+.GlueHeader__background-color,
+.Header__background-color {
+  opacity: 0;
+}
+
+.view-player {
+  background: rgba(var(--modspotify_rgb_sidebar_and_player_bg),.44);
+}
+
+#view-leaderboard-ad {
+  display: none !important;
+}
