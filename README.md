@@ -1,6 +1,6 @@
 # Light
 
-Non-opinionated non-invasive light adaptation of the Spotify theme.
+Un-opinionated non-invasive light adaptation of the Spotify theme.
 In particular, the theme color green is unchanged.
 
 ## Screenshots
